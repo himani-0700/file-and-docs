@@ -1,0 +1,15 @@
+class Maths
+{
+  private:
+     int a;
+     int b;
+  public:
+    void sum()
+      {
+        print(a+b)
+      }
+    void sub()
+     {
+       print(a-b)
+      }
+}
